@@ -1,0 +1,4 @@
+Total Spins  : 1
+Win Spins    : 0
+Losses spins : 1
+Average net credit per spin : -1.0

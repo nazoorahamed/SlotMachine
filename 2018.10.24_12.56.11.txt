@@ -1,0 +1,4 @@
+Total Spins  : 12
+Win Spins    : 6
+Losses spins : 6
+Average net credit per spin : 5.0
